@@ -7,7 +7,7 @@
 <br />
 :four_leaf_clover: Welcome to my github.
 <br />
-:thought_balloon: learning to be Frontend Devloper.
+:thought_balloon: learning to be Frontend Developer.
 
 # :pencil2: STUDYING
 <br />
