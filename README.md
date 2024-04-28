@@ -23,10 +23,8 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
 
 
-### 🔖 Logs
+### 🏃🏻‍♀️ Logs
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summermong&layout=compact"/>
-<br />
-<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summermong&layout=compact" width="310"/>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=summermong"/>
 
