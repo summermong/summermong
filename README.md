@@ -1,44 +1,32 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=d9d2e9&height=150&section=header&text=Hello,%20Summermong!&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
-<br />
-<br />
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsummermong&count_bg=%23C1B0E8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br />
-:four_leaf_clover: Welcome to my github.
-<br />
-:thought_balloon: learning to be Frontend Developer.
-<br />
+<div align="left">
 
-# ✏️ STUDYING
-<br />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+## 🍀 Summer
+
+<pre>
+🧑🏻‍💻 개발만큼 개선과 발전을 중요하게 생각하는 프론트엔드 개발자 Summer입니다.
+✍🏻 마케터로 근무한 경험이 있어 개발 외에도 UI/UX와 글쓰기, 디자인에도 관심이 많습니다.
+</pre>
+
+
+### ✨ Skills & Study
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3578E5?style=flat&logo=TypeScript&logoColor=white"/>
 <br />
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=TailwindCSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Styled components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
 <br />
-<img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=React-router&logoColor=white"/>
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/>
 <img src="https://img.shields.io/badge/React query-FF4154?style=flat&logo=React-query&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
 
-# 🛠️ Tools
-<br />
-<img src="https://img.shields.io/badge/visual studio code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
-<br />
 
-# 🔖 STUDY LOG
-<br/>
+### 🔖 Logs
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summermong&layout=compact"/>
 <br />
 <br />
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=summermong"/>
-</div>
 
