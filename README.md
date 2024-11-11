@@ -1,12 +1,12 @@
 <div align="center">
 
-### 🍀 Summer
+### 🍀 Summermong
 
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyMjA0MjhfMjYy/MDAxNjUxMTIzNzU0MzI3.mIkMudhsdkgeV98jlwlgJ3PfCvjh9V1MDO0X7lv3Opkg.zy0O2CkJC4_8ZfyMEw7h_6zm2vw85dg0O8a0yY8xqukg.GIF.2514o_o/IMG_3132.gif?type=w800" width="300" /><br />
 
 <div>
 개발만큼 개선과 발전을 중요하게 생각하는<br />
-<strong>프론트엔드 개발자 Summer</strong>입니다.
+<strong>프론트엔드 개발자 Summermong</strong>입니다.
 </div>
 <br />
 
